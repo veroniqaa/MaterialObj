@@ -5,17 +5,17 @@
 composer install
 ```
 
-## Uruchomić testy, potwierdzających spełnienie wymagań funkcjonalnych: 
+## Uruchomienie testów, potwierdzających spełnienie wymagań funkcjonalnych: 
 ```
 .\vendor\bin\phpunit tests
 ```
 
-## Wyświetlenie struktury drzewiastej w konsoli:
+## Wyświetlenie przykładowej struktury drzewiastej w konsoli:
 ```
 php index.php
 ```
 
-## Wyświetlenie struktury drzewiastej w przeglądarce:
+## Wyświetlenie przykładowej struktury drzewiastej w przeglądarce:
 ```
 php -S localhost:8000 
 ```
